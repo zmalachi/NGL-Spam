@@ -20,8 +20,8 @@
 ## 📦 การติดตั้ง
 1. Clone โปรเจกต์นี้  
    ```bash
-   git clone https://github.com/USERNAME/NGL.git
-   cd NGL
+   git clone https://github.com/zmalachi/NGL-Spam.git
+   cd NGL-Spam
    ```
 2. ติดตั้ง dependencies  
    ```bash
